@@ -3,7 +3,7 @@
 #https://www.waveshare.com/w/upload/e/ef/CH9121_SPCC.pdf
 
 #This script senst up the board and then transmits a UDP message.
-#its modified from the origional provided by Waveshare, however I struggled with thier documentation.
+#its modified from the origional provided by Waveshare.
 #https://github.com/Splashaudio
 
 from machine import UART, Pin
