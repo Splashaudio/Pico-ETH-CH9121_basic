@@ -2,6 +2,9 @@
 # https://www.waveshare.com/wiki/Pico-ETH-CH9121
 #https://www.waveshare.com/w/upload/e/ef/CH9121_SPCC.pdf
 
+#This script senst up the board and then transmits a UDP message.
+#its modified from the origional provided by Waveshare, however I struggled with thier documentation.
+#https://github.com/Splashaudio
 
 from machine import UART, Pin
 import time
