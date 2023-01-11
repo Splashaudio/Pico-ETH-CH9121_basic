@@ -1,4 +1,4 @@
-##Pico-ETH-CH9121
+Pico-ETH-CH9121
 
 Quick script to get the Wave Share Pico-ETH-CH9121 working
 
