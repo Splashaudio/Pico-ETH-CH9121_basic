@@ -2,7 +2,7 @@
 # https://www.waveshare.com/pico-eth-ch9121.htm
 # https://www.waveshare.com/wiki/Pico-ETH-CH9121
 #https://www.waveshare.com/w/upload/e/ef/CH9121_SPCC.pdf
-
+#https://www.github.com/Splashaudio
 
 from machine import UART, Pin
 import time
